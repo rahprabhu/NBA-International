@@ -5,6 +5,6 @@ The NBA has grown into a global game over the last few decades, and I would like
 
 Before beginning the clustering exercise, some questions that I would like to answer include:
 - What are the top countries that international players have come from?
-- Which countries have the highest average career lengths in the NBA in terms of games played?
-- Which countries contributed the most to winning games?
-- Which countries have produced the best scorers?
+- Which teams have the fielded the most international players?
+- Which countries have produced the most valuable players?
+- Which countries/players have contributed the most to winning games?

@@ -5,7 +5,7 @@
 1: [Web Scraping for EDA](https://github.com/rahprabhu/NBA-International/blob/main/Part%201%20-%20Web%20Scraping%20for%20EDA.ipynb)<br>
 2: [Data Cleaning and EDA](https://nbviewer.org/github/rahprabhu/NBA-International/blob/main/Part%202%20-%20International%20NBA%20Player%20EDA.ipynb)<br>
 3: [Web Scraping for Clustering](https://github.com/rahprabhu/NBA-International/blob/main/Part%203%20-%20Web%20Scraping%20for%20Clustering.ipynb)<br>
-4: [Feature Engineering and K-Means Clustering]()<br>
+4: [Feature Engineering and K-Means Clustering](https://github.com/rahprabhu/NBA-International/blob/main/Part%204%20-%20Clustering%20International%20NBA%20Players.ipynb)<br>
 
 
 ## About

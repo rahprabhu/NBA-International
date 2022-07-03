@@ -6,7 +6,10 @@
 2: [Data Cleaning and EDA](https://nbviewer.org/github/rahprabhu/NBA-International/blob/main/Part%202%20-%20International%20NBA%20Player%20EDA.ipynb)<br>
 3: [Web Scraping for Clustering](https://github.com/rahprabhu/NBA-International/blob/main/Part%203%20-%20Web%20Scraping%20for%20Clustering.ipynb)<br>
 4: [Feature Extraction and K-Means Clustering](https://github.com/rahprabhu/NBA-International/blob/main/Part%204%20-%20Clustering%20International%20NBA%20Players.ipynb)<br><br>
-Tableau Dashboard - [The Rise of International Players in the NBA](https://public.tableau.com/app/profile/r.prabhu/viz/TheRiseofInternationalPlayersintheNBA/Dashboard1)
+**TL:DR**
+
+**Tableau Dashboard** - [**The Rise of International Players in the NBA**](https://public.tableau.com/app/profile/r.prabhu/viz/TheRiseofInternationalPlayersintheNBA/Dashboard1) <br>
+**Tableau Dashboard** - [**K-Means Clustering: International NBA Players**](https://public.tableau.com/app/profile/r.prabhu/viz/K-MeansClusteringInternationalNBAPlayers/Dashboard1)
 
 
 ## About
